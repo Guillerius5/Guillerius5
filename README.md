@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Guillermo Rius Hamel</h1>
 <h3 align="center">Full Stack Developer | Java, Spring Boot & React</h3>
 
-- 🔭 **I’m currently working on:** "DevStore" (Arquitectura de Microservicios) y "Pack Mate".
-- 🌱 **I’m currently learning:** Arquitecturas escalables, Spring Cloud, API Gateways y despliegues con Docker.
+- 🔭 **I’m currently working on:** "DevStore" (Arquitectura de Microservicios) , "Pack Mate" and "FICHA DIRECTA.
+- 🌱 **I’m currently learning:**I’m currently learning: Flutter, Dart, Arquitecturas escalables, Spring Cloud, API Gateways and despliegues con Docker.
 - 💡 **I'm interested in:** Clean Architecture, Backend Security (JWT) y bases de datos NoSQL/GraphQL.
 - 💬 **Talk to me about:** Java, Spring Boot, React, Clean Code o cualquier tema de desarrollo.
 - 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/guillermo-rius-hamel)
