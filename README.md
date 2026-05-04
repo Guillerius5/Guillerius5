@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guillermo Rius Hamel</h1>
-<h3 align="center">Full Stack Developer Junior | Java, Spring Boot & React</h3>
+<h3 align="center">Full Stack Developer | Java, Spring Boot & React</h3>
 
 - 🔭 **I’m currently working on:** "DevStore" (Arquitectura de Microservicios) y "Pack Mate".
 - 🌱 **I’m currently learning:** Arquitecturas escalables, Spring Cloud, API Gateways y despliegues con Docker.
